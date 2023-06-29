@@ -1,5 +1,5 @@
 word_file = open('./store/input.txt', 'r')
-search_words = ["Python", "C", "OOP", "Hello", "Java"]
+search_words = ["Python", "C++", "OOP", "Hello", "Java"]
 
 word_lists = word_file.readlines()
 
